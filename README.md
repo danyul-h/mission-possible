@@ -28,8 +28,8 @@ Additional Tasks:
 * drill for “hydrocarbons”
 
 # Contributors (Team 9)
-> Daniel Hoang
-> Oliver Wang
-> Mehr Kaur
-> Esther Lim
-> Safwan Ahmed
+* Daniel Hoang
+* Oliver Wang
+* Mehr Kaur
+* Esther Lim
+* Safwan Ahmed
