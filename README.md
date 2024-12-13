@@ -28,8 +28,11 @@ Additional Tasks:
 * drill for “hydrocarbons”
 
 # Contributors (Team 9)
-* Daniel Hoang
-* Oliver Wang
-* Mehr Kaur
-* Esther Lim
-* Safwan Ahmed
+* Daniel Hoang -> Programming
+* Oliver Wang -> Circuit Engineer
+* Esther Lim -> Builder
+* Mehr Kaur -> Project Manager
+* Safwan Ahmed -> Equipment Manager
+
+# References
+* [Steering](https://kshitijtiwari.com/all-resources/mobile-robots/robot-steering/)
