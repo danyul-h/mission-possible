@@ -10,7 +10,7 @@ Rover Tasks:
 * Collect temperature data for the four locations.
 * Collect wind speed and direction data for a location of the team’s choice.
 * Plant a flag on the top of Mount Doom
-*Indicate data visually to the team.
+* Indicate data visually to the team.
 * keep rover size so that it fits in the team’s storage box.
 * use all three modes at least once
   * Preprogrammed routine - completes steps
